@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Hero1</string>
+    <string name="hero2">Hero2</string>
+    <string name="hero3">Hero3</string>
+    <string name="hero4">Hero4</string>
+    <string name="hero5">Hero5</string>
+    <string name="hero6">Hero6</string>
+    <string name="description1">Description1</string>
+    <string name="description2">Description2</string>
+    <string name="description3">Description3</string>
+    <string name="description4">Description4</string>
+    <string name="description5">Description5</string>
+    <string name="description6">Description6</string>
+</resources>
